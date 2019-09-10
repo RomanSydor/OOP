@@ -1,0 +1,4 @@
+1) Result (x = 1) : 1
+2) Result (x = 31) : 961
+3) Result (x = 61) : 3721
+4) Result (x = 91) : 8281
